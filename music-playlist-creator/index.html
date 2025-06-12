@@ -1,27 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Music Playlist Explorer</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>QueueIt</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=favorite"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
     <header>
-        <!-- Your header content here -->
+      <!-- Your header content here -->
+      <div id="header-section">
+        <h2 id="header-title">QueueIt</h2>
+        <div id="redirection-container">
+          <a class="redirection-tags" href="./index.html"><h3>Home</h3></a>
+
+          <a class="redirection-tags" href="./featured.html"
+            ><h3>Featured</h3></a
+          >
+
+          <a><h3 class="darkmode-lightmode"></h3></a>
+        </div>
+      </div>
     </header>
 
-    <main> 
-        <!-- Your main content here -->
+    <main>
+      <!-- Your main content here -->
+      <div class="playlist-cards-container"></div>
+
+      <!-- THIS IS THE MODAL  -->
+      <div id="songModal" class="modal">
+        <div class="modal-content">
+          <div id="modal-card">
+            <span class="close">&times;</span>
+
+            <div class="modal-scroll-container">
+              <div class="modal-header">
+                <div id="playlist-div">
+                  <div id="image-holder">
+                    <img id="playlistImage" src="" alt="" />
+                  </div>
+
+                  <div id="playlistInfo-holder">
+                    <h1 id="playlistName"></h1>
+                    <h3 id="playlistMaker"></h3>
+                  </div>
+                </div>
+              </div>
+
+              <!-- SHUFFLE BUTTON -->
+              <button class="shuffle-button">SHUFFLE</button>
+            </div>
+          </div>
+          <div id="scroll-list">
+            <div id="songList"></div>
+          </div>
+        </div>
+      </div>
     </main>
 
     <footer>
-        <!-- Your footer content here -->
+      <!-- Your footer content here -->
+      <div id="footer-section">
+        <h4>@2025 Luis-Angel Moreno</h4>
+      </div>
     </footer>
-    <script src="data/data.js"></script>
+    <!-- <script src="data/data.js"></script> -->
     <script src="script.js"></script>
-</body>
+  </body>
 </html>

@@ -1,0 +1,701 @@
+{
+  "playlists": [
+    {
+      "name": "Pop & Hip-Hop Hits",
+      "imageUrl": "https://media.tenor.com/QGQpKYjY-VQAAAAe/looking-into-the-horizon-wolf-sitting.png",
+      "creator": "GrooveMaster22",
+      "likes": 0,
+      "id": 1,
+      "songs": [
+        {
+          "title": "IDGAF (feat. Yeat)",
+          "artist": "Drake",
+          "album": "For All The Dogs",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "4:20"
+        },
+        {
+          "title": "Me Love Mine All Mine",
+          "artist": "Mitski",
+          "album": "The Land Is Inhospitable and So Are We",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "2:17"
+        },
+        {
+          "title": "Keep on Loving You",
+          "artist": "Cigarettes After Sex",
+          "album": "Affection - Single",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "3:53"
+        },
+        {
+          "title": "Hey Driver (feat. The War and Treaty)",
+          "artist": "Zach Bryan",
+          "album": "Zach Bryan",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "3:47"
+        },
+        {
+          "title": "Let You Break My Heart Again",
+          "artist": "Laufey, Philharmonia Orchestra",
+          "album": "Let You Break My Heart Again - Single",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "4:29"
+        }
+      ]
+    },
+    {
+      "name": "Bossa Nova & Jazz Infusion",
+      "imageUrl": "https://images.pexels.com/photos/12485129/pexels-photo-12485129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "creator": "JazzCat88",
+      "likes": 502,
+      "id": 2,
+      "songs": [
+        {
+          "title": "The Start",
+          "artist": "Laufey",
+          "album": "From The Start - Single",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "2:49"
+        },
+        {
+          "title": "Chamber of Reflection",
+          "artist": "Mac DeMarco",
+          "album": "Salad Days",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "3:51"
+        },
+        {
+          "title": "Idioteque",
+          "artist": "Radiohead",
+          "album": "A Moon Shaped Pool",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "4:26"
+        },
+        {
+          "title": "I Like the Way You Love Me",
+          "artist": "Brenton Wood",
+          "album": "Oogum Boogum",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "2:43"
+        },
+        {
+          "title": "Pot Roast (feat. Key Glock)",
+          "artist": "Young Nudy",
+          "album": "Gumbo",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Rock & Alternative Classics",
+      "imageUrl": "https://e.snmc.io/i/1200/s/05f6f751be15248705efbab7ea72d754/9480783",
+      "creator": "RiffRider",
+      "likes": 128,
+      "id": 3,
+      "songs": [
+        {
+          "title": "Hell N Back",
+          "artist": "Bakar",
+          "album": "Hell N Back - Single",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "3:33"
+        },
+        {
+          "title": "Right Down the Line",
+          "artist": "Gerry Rafferty",
+          "album": "City to City",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "4:27"
+        },
+        {
+          "title": "The Great Gig in the Sky",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "4:44"
+        },
+        {
+          "title": "Garota de Ipanema (1967 Version)",
+          "artist": "Antônio Carlos Jobim",
+          "album": "Indéito",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "4:02"
+        },
+        {
+          "title": "Black Hole Sun",
+          "artist": "Soundgarden",
+          "album": "Superunknown (Deluxe Edition)",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "5:18"
+        }
+      ]
+    },
+    {
+      "name": "Modern Indie & R&B",
+      "imageUrl": "https://i.redd.it/b8qrce32wdha1.jpg",
+      "creator": "VibeCreator",
+      "likes": 89,
+      "id": 4,
+      "songs": [
+        {
+          "title": "Break It Off",
+          "artist": "PinkPantheress",
+          "album": "Break It Off - Single",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "1:35"
+        },
+        {
+          "title": "I Hope to Be Around (Live)",
+          "artist": "Retrnb",
+          "album": "I Hope to Be Around (Live) - Single",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "4:38"
+        },
+        {
+          "title": "Get You (feat. Kali Uchis)",
+          "artist": "Daniel Caesar",
+          "album": "Freudian",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "4:38"
+        },
+        {
+          "title": "Small Worlds",
+          "artist": "Mac Miller",
+          "album": "Swimming",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "4:31"
+        },
+        {
+          "title": "Si Veo A Tu Mama",
+          "artist": "Bad Bunny",
+          "album": "YHLQMDLG",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Alternative & Pop Rock",
+      "imageUrl": "https://www.liveinlimbo.com/wp-content/uploads/2017/05/macdemarco-thisolddog-2017.jpg",
+      "creator": "IndieTune",
+      "likes": 234,
+      "id": 5,
+      "songs": [
+        {
+          "title": "Telephones",
+          "artist": "Vacations",
+          "album": "Changes",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "3:32"
+        },
+        {
+          "title": "ARE WE STILL FRIENDS?",
+          "artist": "Tyler, The Creator",
+          "album": "IGOR",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "4:25"
+        },
+        {
+          "title": "Melting",
+          "artist": "Kali Uchis",
+          "album": "Por Vida",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "3:28"
+        },
+        {
+          "title": "Like a Tattoo",
+          "artist": "Sade",
+          "album": "Love Deluxe",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "3:38"
+        },
+        {
+          "title": "Smooth Operator (Single Version)",
+          "artist": "Sade",
+          "album": "The Best of Sade",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "4:18"
+        }
+      ]
+    },
+    {
+      "name": "Classic Rock Anthems",
+      "imageUrl": "https://www.ultimate-guitar.com/static/article/news/1/69761_ver1516630290.jpg",
+      "creator": "RockFanatic",
+      "likes": 176,
+      "id": 6,
+      "songs": [
+        {
+          "title": "All Apologies",
+          "artist": "Nirvana",
+          "album": "In Utero (20th Anniversary Deluxe)",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "3:58"
+        },
+        {
+          "title": "Love No Thotties",
+          "artist": "Chief Keef",
+          "album": "The Leek Vol. 2",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "3:19"
+        },
+        {
+          "title": "Negative Creep",
+          "artist": "Nirvana",
+          "album": "Bleach",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "2:55"
+        },
+        {
+          "title": "That's That",
+          "artist": "MF DOOM",
+          "album": "Born Like This",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Hip-Hop & Rap Essentials",
+      "imageUrl": "https://res.cloudinary.com/teepublic/image/private/s--fqKRWQMK--/c_crop,x_10,y_10/c_fit,h_1109/c_crop,g_north_west,h_1260,w_1260,x_-102,y_-76/co_rgb:d40f0f,e_colorize,u_Misc:One%20Pixel%20Gray/c_scale,g_north_west,h_1260,w_1260/fl_layer_apply,g_north_west,x_-102,y_-76/bo_0px_solid_white/e_overlay,fl_layer_apply,h_1260,l_Misc:Poster%20Bumpmap,w_1260/e_shadow,x_6,y_6/c_limit,h_1254,w_1254/c_lpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1609551839/production/designs/18102251_0.jpg",
+      "creator": "RapHead77",
+      "likes": 67,
+      "id": 7,
+      "songs": [
+        {
+          "title": "Rapp Snitch Knishes (feat. Mr. Fantastik)",
+          "artist": "MF DOOM",
+          "album": "MM..FOOD",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "2:52"
+        },
+        {
+          "title": "Doomsday (feat. Pebbles the Invisible Girl)",
+          "artist": "MF DOOM",
+          "album": "Operation: Doomsday (Complete)",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "4:58"
+        },
+        {
+          "title": "Hoe Cakes",
+          "artist": "MF DOOM",
+          "album": "MM..FOOD",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "1:55"
+        },
+        {
+          "title": "Fancy Clown (feat. Viktor Vaughn)",
+          "artist": "Madvillain",
+          "album": "Madvillainy",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "1:55"
+        },
+        {
+          "title": "At the Hotel (feat. Lil Uzi Vert & Young Jordan)",
+          "artist": "Gorma",
+          "album": "Drip Season 3 (Deluxe)",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Timeless Classics",
+      "imageUrl": "https://townsquare.media/site/295/files/2024/12/attachment-90s-video-collage.jpg?w=780&q=75",
+      "creator": "OldSchoolJams",
+      "likes": 312,
+      "id": 8,
+      "songs": [
+        {
+          "title": "One More Hour",
+          "artist": "Tame Impala",
+          "album": "The Slow Rush",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "7:13"
+        },
+        {
+          "title": "Shut Up My Momma Calling",
+          "artist": "Hotly Ugly",
+          "album": "Shut Up My Momma Calling - Single",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "2:44"
+        },
+        {
+          "title": "Lovely Day",
+          "artist": "Bill Withers",
+          "album": "Menagerie",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "4:17"
+        },
+        {
+          "title": "Call Out My Name",
+          "artist": "The Weeknd",
+          "album": "My Dear Melancholy,",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "3:48"
+        },
+        {
+          "title": "Maneater",
+          "artist": "Daryl Hall & John Oates",
+          "album": "H2O",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "4:33"
+        }
+      ]
+    },
+    {
+      "name": "Modern Rock & Pop",
+      "imageUrl": "https://classicsdujour.com/wp-content/uploads/2018/09/pink-floyd-dark-side-of-the-moon-album-cover-1200x1200.jpg",
+      "creator": "PopRockPro",
+      "likes": 0,
+      "id": 9,
+      "songs": [
+        {
+          "title": "Yellow",
+          "artist": "Coldplay",
+          "album": "Parachutes",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "4:26"
+        },
+        {
+          "title": "N Side",
+          "artist": "Steve Lacy",
+          "album": "Apollo XXI",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "3:44"
+        },
+        {
+          "title": "The Moment",
+          "artist": "Tame Impala",
+          "album": "Currents",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "4:15"
+        },
+        {
+          "title": "Let It Happen",
+          "artist": "Tame Impala",
+          "album": "Currents",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "7:46"
+        },
+        {
+          "title": "Borderline",
+          "artist": "Tame Impala",
+          "album": "The Slow Rush",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "Chill Indie Anthems",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd30ebd7e80dad6b2383aab0",
+      "creator": "IndieVibes",
+      "likes": 502,
+      "id": 10,
+      "songs": [
+        {
+          "title": "Elephant",
+          "artist": "Tame Impala",
+          "album": "Lonerism",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "3:31"
+        },
+        {
+          "title": "Feels Like We Only Go Backwards",
+          "artist": "Tame Impala",
+          "album": "Lonerism",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "3:12"
+        },
+        {
+          "title": "Weird Fishes / Arpeggi",
+          "artist": "Radiohead",
+          "album": "In Rainbows",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "5:18"
+        },
+        {
+          "title": "Karma Police",
+          "artist": "Radiohead",
+          "album": "OK Computer",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "4:24"
+        },
+        {
+          "title": "No Surprises",
+          "artist": "Radiohead",
+          "album": "OK Computer",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Hip-Hop & Trap Beats",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5b7e9b37ec4eb7238e6d6003/a1cc060f-6f8d-4b7d-b3a0-297df8286840/die-lit-playboi-carti-hi-res-cover.jpg",
+      "creator": "BeatDropper",
+      "likes": 128,
+      "id": 11,
+      "songs": [
+        {
+          "title": "Power",
+          "artist": "Young Thug",
+          "album": "D.A.B. Music, Vol. 1",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "3:07"
+        },
+        {
+          "title": "Digits",
+          "artist": "Young Thug",
+          "album": "Rap Chart Top Hits",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "2:56"
+        },
+        {
+          "title": "Show Me How",
+          "artist": "Men I Trust",
+          "album": "Show Me How - Single",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "3:35"
+        },
+        {
+          "title": "Oncle Jazz",
+          "artist": "Men I Trust",
+          "album": "Oncle Jazz",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "0:57"
+        },
+        {
+          "title": "Numb",
+          "artist": "Men I Trust",
+          "album": "Seven - Single",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Dream Pop & Chillwave",
+      "imageUrl": "https://i.redd.it/xkjv9s4wcp151.jpg",
+      "creator": "DreamySounds",
+      "likes": 89,
+      "id": 12,
+      "songs": [
+        {
+          "title": "Seven",
+          "artist": "Men I Trust",
+          "album": "Seven - Single",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "3:45"
+        },
+        {
+          "title": "Lauren",
+          "artist": "Dominic Fike",
+          "album": "What Could Possibly Go Wrong",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "2:19"
+        },
+        {
+          "title": "Why",
+          "artist": "Dominic Fike",
+          "album": "What Could Possibly Go Wrong",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "2:40"
+        },
+        {
+          "title": "My Jinji",
+          "artist": "Sunset Rollercoaster",
+          "album": "JINJI KIKKO - Single",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "6:40"
+        },
+        {
+          "title": "Mrs Magic",
+          "artist": "Strawberry Guy",
+          "album": "Mrs Magic - Single",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Psychedelic Pop & Rock",
+      "imageUrl": "https://pages.vassar.edu/musicalurbanism/files/2014/07/EDMcrowd.jpg",
+      "creator": "PsychedelicGrooves",
+      "likes": 234,
+      "id": 13,
+      "songs": [
+        {
+          "title": "Eventually",
+          "artist": "Tame Impala",
+          "album": "Currents",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "5:19"
+        },
+        {
+          "title": "The Less I Know the Better",
+          "artist": "Tame Impala",
+          "album": "Currents",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "3:38"
+        },
+        {
+          "title": "No Hands (feat. Roscoe Dash & Wale)",
+          "artist": "Waka Flocka Flame",
+          "album": "Flockaveli",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "4:23"
+        },
+        {
+          "title": "Need 2",
+          "artist": "Pinegrove",
+          "album": "Need 2 - EP",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "3:11"
+        },
+        {
+          "title": "Old Friends",
+          "artist": "Pinegrove",
+          "album": "Cardinal",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Rock",
+      "imageUrl": "https://i0.wp.com/turnupthevolume.blog/wp-content/uploads/2022/02/faith.jpg?ssl=1",
+      "creator": "AltRockFan",
+      "likes": 176,
+      "id": 14,
+      "songs": [
+        {
+          "title": "Blame",
+          "artist": "Whxst",
+          "album": "Distressor",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "6:13"
+        },
+        {
+          "title": "Glue Song (feat. Clairo)",
+          "artist": "beabadoobee",
+          "album": "Glue Song (feat. Clairo) - Single",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "3:15"
+        },
+        {
+          "title": "A$AP Forever",
+          "artist": "A$AP Twelvyy",
+          "album": "A Quarter Til. Twelve",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "1:32"
+        },
+        {
+          "title": "For the First Time",
+          "artist": "Mac DeMarco",
+          "album": "This Old Dog",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "3:02"
+        },
+        {
+          "title": "Crush",
+          "artist": "Cigarettes After Sex",
+          "album": "Crush - Single",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "4:26"
+        }
+      ]
+    },
+    {
+      "name": "Hip-Hop & R&B Mix",
+      "imageUrl": "https://preview.redd.it/a-drawing-i-did-of-the-blonde-album-cover-v0-lwqkcvayfhda1.jpg?auto=webp&s=762eeb87ba749102a22a82f0fd418027fe22ef37",
+      "creator": "UrbanBeats",
+      "likes": 67,
+      "id": 15,
+      "songs": [
+        {
+          "title": "Drive me crazy",
+          "artist": "Lil Yachty",
+          "album": "Let's Start Here.",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "3:49"
+        },
+        {
+          "title": "Come Get to This",
+          "artist": "Marvin Gaye",
+          "album": "Let's Get It On (Deluxe Edition)",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "2:41"
+        },
+        {
+          "title": "El Chupa Nibre",
+          "artist": "DANGERDOOM, MF DOOM, Danger Mouse",
+          "album": "The Mouse & the Mask",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "2:36"
+        },
+        {
+          "title": "Claiborne Kick (feat. Boldy James)",
+          "artist": "Westside Gunn",
+          "album": "Pray for Paris",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "3:14"
+        },
+        {
+          "title": "94 Camry Music",
+          "artist": "fembdot.",
+          "album": "94 Camry Music",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:41"
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Hip-Hop",
+      "imageUrl": "https://cdn-images.dzcdn.net/images/cover/fc2ee4c61aa39259101ad8aee4c09f76/1900x1900-000000-80-0-0.jpg",
+      "creator": "HipHopFlow",
+      "likes": 312,
+      "id": 16,
+      "songs": [
+        {
+          "title": "Rap City (feat. Smoo)",
+          "artist": "fembdot.",
+          "album": "94 Camry Music",
+          "imageUrl": "https://images.genius.com/d5db2e6699bf60da503521cdbe46e2ab.1000x1000x1.jpg",
+          "length": "2:38"
+        },
+        {
+          "title": "Misty Morning",
+          "artist": "Travis Bretzer",
+          "album": "Bitter Suites",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/0x1900-000000-80-0-0.jpg",
+          "length": "2:36"
+        },
+        {
+          "title": "Champion",
+          "artist": "Kanye West",
+          "album": "Graduation",
+          "imageUrl": "https://cdn-images.dzcdn.net/images/cover/b4b7dd92a404cd45a556b4066f7b8cbd/1900x1900-000000-80-0-0.jpg",
+          "length": "2:47"
+        },
+        {
+          "title": "George Bondo (feat. Conway the Machine & Benny the BUTCHER)",
+          "artist": "Westside Gunn",
+          "album": "Pray for Paris",
+          "imageUrl": "https://i.pinimg.com/736x/79/96/40/79964062348bdb51677d2dfa2d972ef7.jpg",
+          "length": "4:44"
+        },
+        {
+          "title": "Belize (feat. MF DOOM)",
+          "artist": "Black Thought, Danger Mouse",
+          "album": "Cheat Codes",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+          "length": "3:54"
+        }
+      ]
+    }
+  ]
+}
