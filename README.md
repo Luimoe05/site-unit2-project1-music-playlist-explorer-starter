@@ -4,9 +4,9 @@
 
 Submitted by: **Luis-Angel Moreno**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **10** hours spent in total
 
-Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
+Deployed Application (**https://site-unit2-project1-music-playlist-explorer-starter-hnv7qmmak.vercel.app/index.html**): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
 
 ### Application Features
 

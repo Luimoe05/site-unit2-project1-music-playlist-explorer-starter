@@ -376,7 +376,11 @@ main {
   outline: 1px solid grey;
   margin: 40px;
   border-radius: 5px;
-  height: 45vh;
+  height: 30%;
+}
+
+#featured-album-creator {
+  /* background-color: red; */
 }
 
 .dark-mode .featured-container {
@@ -450,10 +454,6 @@ main {
   margin-right: 50px;
   width: 80%;
   margin-top: 20px;
-}
-
-#likes-container {
-  /* outline: 1px solid green; */
 }
 
 #tile-container {
