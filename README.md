@@ -153,20 +153,20 @@ Deployed Application (**https://site-unit2-project1-music-playlist-xi.vercel.app
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The labs did help me prepare for the project. I think the one that helped me the most was lab 3, which helped me set up the json file.
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
 
-Add your response here
+I think I would have liked to added some of the stretch features like the search function.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I really liked how the website looked and how the design came out. I think sometimes through the project, I would change something in the styling and it would mess up some stuff, so moving on in the future I would like to maybe push my code to the repo before making any big changes.
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+NA
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shoutout to my instructor Devarsh and my peers Joshua and Thomas
